@@ -7,7 +7,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -49,7 +49,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -91,7 +91,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -133,7 +133,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -175,7 +175,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -217,7 +217,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -261,7 +261,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --float-precision=Standard
 --target-framework=NetFramework
 --float-mode=Fast
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -282,7 +282,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --float-precision=Standard
 --target-framework=NetFramework
 --float-mode=Fast
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -301,7 +301,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -328,7 +328,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -355,7 +355,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
@@ -397,7 +397,7 @@ Library: D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\BurstOutpu
 --dump=Function
 --float-precision=Standard
 --target-framework=NetFramework
---linker-options=PdbAltPath="Override simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="VEX Override Simulator_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\新建文件夹\My project (1)\VEX-Override-simlatar\Temp\Burst
 --emit-version-symbol=True
